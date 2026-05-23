@@ -1,0 +1,59 @@
+aid: yards-brewing
+name: Yards Brewing
+description: >-
+  Yards Brewing Company is an independent craft brewery founded in 1995 and
+  headquartered in Philadelphia, Pennsylvania. Yards operates a brewery and
+  taproom at 500 Spring Garden Street and distributes its classic and seasonal
+  beers across the Mid-Atlantic. The company emphasizes local craftsmanship,
+  community, and Philadelphia identity, summed up in their tagline that things
+  are not made in Philadelphia but made BY Philadelphia.
+kind: contract
+position: Consuming
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Brewing
+  - Beverages
+  - Craft Beer
+  - Philadelphia
+  - Hospitality
+created: '2026-05-23'
+modified: '2026-05-23'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/yards-brewing/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://yardsbrewing.com
+  - type: Shop
+    url: https://yardsbrewing.com/shop
+  - type: BeerFinder
+    url: https://yardsbrewing.com/beer-finder
+  - type: Tours
+    url: https://yardsbrewing.com/tours
+  - type: Events
+    url: https://yardsbrewing.com/events
+  - type: PrivateEvents
+    url: https://yardsbrewing.com/private-events
+  - type: Wholesale
+    url: https://yardsbrewing.com/wholesale
+  - type: ContractBrewing
+    url: https://yardsbrewing.com/co-packing
+  - type: GiftCards
+    url: https://www.toasttab.com/yards-brewing-co-500-spring-garden-st/giftcards
+  - type: Eventbrite
+    url: https://www.eventbrite.com/o/yards-brewing-company
+  - type: Contact
+    url: https://yardsbrewing.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/yards-brewing-company
+  - type: Instagram
+    url: https://www.instagram.com/yardsbrew
+  - type: Facebook
+    url: https://www.facebook.com/yardsbrew
+  - type: X
+    url: https://x.com/yardsbrew
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
