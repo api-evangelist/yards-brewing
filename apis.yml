@@ -24,6 +24,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/yards-brewing-domain-security.yml
   - type: Website
     url: https://yardsbrewing.com
   - type: Shop
