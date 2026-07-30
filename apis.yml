@@ -8,9 +8,20 @@ description: >-
   community, and Philadelphia identity, summed up in their tagline that things
   are not made in Philadelphia but made BY Philadelphia.
 kind: contract
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consuming
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/yards-brewing.png
 tags:
   - Brewing
   - Beverages
